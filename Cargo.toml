@@ -1,0 +1,6 @@
+[package]
+name = "cgit"
+version = "0.1.0"
+authors = ["mdmahikaishar <mahikaishar@gmail.com>"]
+description = "Git command mapper."
+edition = "2021"
